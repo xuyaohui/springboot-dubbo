@@ -1,11 +1,11 @@
 # springboot-dubbo
 使用springBoot和dubbo搭建入门实例
 
-###项目使用技术
+### 项目使用技术
 
 SpringBoot+Dubbo+zookeeper(自己本地搭建)
 
-###dubbo-admin说明：
+### dubbo-admin说明：
 
 （1）dubbo admin在dubbo源码最新版本已被改名，我使用的是dubbo-admin-2.6
 
@@ -13,7 +13,7 @@ SpringBoot+Dubbo+zookeeper(自己本地搭建)
 
 （3）dubbo-admin-2.6解压之后修改dubbo.properties中zookeeper的地址
 
-###运行项目：
+### 运行项目：
 
 （1）分别运行springboot-dubbo项目的两个子模块，访问网址http://localhost:8087/hello 查看是否有“hello...demo”
 
